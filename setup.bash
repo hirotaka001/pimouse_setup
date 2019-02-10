@@ -1,1 +1,1 @@
-#Written by Hiroaki Takahashi
+#Written by H.Takahash
